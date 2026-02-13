@@ -1,0 +1,13 @@
+In the main menu there will be 3 options which is :
+
+
+1.	Start Game
+2.	Instructions
+3.	Quit
+
+
+Option 1 : Start the Flappy Bird Game and the controls are much simple we only have to press space button only to keep the bird fly not fall and other right side will be displayed Score and how to control Flappy Bird.
+
+Option 2 : Instructions of Flappy Bird Game and how to control the bird.
+
+Option 3 : Exit or quit the Flappy Bird Game.
